@@ -7,7 +7,7 @@ namespace ExpenseSharingApp.Controllers
 {
     [ApiController]
     [Route("api/expenses")]
-    public class MVCController : ControllerBase
+    public class ExpenseController : ControllerBase
     {
         private readonly IExpenseRepository _expenseRepository;
 
