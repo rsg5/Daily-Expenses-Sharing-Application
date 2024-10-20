@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9eVOBg7IAmoZCY7AdBbzFJ70WlpYrFLlmBYChgWhRqE=",
+  "Source": "ExpenseSharingApp",
+  "BasePath": "_content/ExpenseSharingApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
