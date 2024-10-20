@@ -11,7 +11,7 @@ namespace ExpenseSharingApp.Controllers
     {
         private readonly IExpenseRepository _expenseRepository;
 
-        public MVCController(IExpenseRepository expenseRepository)
+        public ExpenseController(IExpenseRepository expenseRepository)
         {
             _expenseRepository = expenseRepository;
         }
